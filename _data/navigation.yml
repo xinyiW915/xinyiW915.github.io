@@ -7,14 +7,14 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-pub"
+    url: "/#pub"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#education_experience"
 
   - title: "Experiences"
     url: "/#experiences"
 
   - title: "Honors and Awards"
-    url: "/#-honors"
+    url: "/#honers"
 
