@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyi Wang <br><span style='font-size: xx-small;'>王馨仪</span>"
+  name             : "Xinyi Wang <br><span style='font-size: small;'>王馨仪</span>"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Bristol"
   location         : "1.23, 1CS, Bristol, UK"
