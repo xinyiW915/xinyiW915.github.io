@@ -1,10 +1,20 @@
 # Experiences
+- *Sep. 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 1/2, University of Bristol, Bristol, UK
+  - Teaching Assistant for units in the School of Computer Science:
+    - [COMSM0127](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127) Immersive Interaction and Audio Design
+    - [COMSM0160](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0160) Advanced Visual AI
+    
+- *Sep. 2024 - Present*&emsp;&emsp;&emsp; Demonstrator/GT2, University of Bristol, Bristol, UK
+  - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
+    - [EMATM0048](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0048) Software Development: Programming and Algorithms
+    - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0066) Visual Analytics
+      
 - *Sep. 2023 - Aug. 2024*&emsp;&emsp; Graduate Teacher Level 1, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
-    - EMAT10100 Engineering Mathematics 1
-    - EMAT20200 Engineering Mathematics 2
-    - EMATM0066 Visual Analytics
-    - COMSM0088 Advanced Data Analytics
+    - [EMAT10100](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT10100) Engineering Mathematics 1
+    - [EMAT20200](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT20200) Engineering Mathematics 2
+    - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMATM0066) Visual Analytics
+    - [COMSM0088](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMSM0088) Advanced Data Analytics
 
 - *Dec. 2022 - Feb. 2024*&emsp;&emsp; Research Assistant (Part-time), University of Bristol, Bristol, UK
   - Research Assistant in Sustainable Video Communications
