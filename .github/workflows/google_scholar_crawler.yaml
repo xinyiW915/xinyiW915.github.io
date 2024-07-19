@@ -14,7 +14,7 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get update
-        sudo apt-get install -y python3-setuptools python3-pip
+        sudo apt-get install -y python3-setuptools python3-pip git
     - name: Install Python Packages
       run: |
         cd ./google_scholar_crawler
@@ -24,12 +24,21 @@ jobs:
         cd ./google_scholar_crawler
         python3 main.py
         cd ./results
-        git init
+        
+        # Initialize Git repository if not already initialized
+        if [ ! -d .git ]; then
+          git init
+        fi
+        
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        
         git add *.json
         git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+        
+        # Enable verbose output for debugging
+        git push "${remote_repo}" HEAD:google-scholar-stats --force --verbose
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
