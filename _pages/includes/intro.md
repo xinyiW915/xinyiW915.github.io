@@ -1,5 +1,4 @@
 <img src="images/uob-logo.svg" alt="University of Bristol" style="width: 150px; float: right; margin-left: 10px;">
-<img src="images/bvilogo.svg" alt="BVI" style="width: 150px; float: right; margin-left: 10px;">
 <img src="images/VIL_logo.svg" alt="VI Laboratory" style="width: 150px; float: right; margin-left: 10px;">
 
 <div style="clear: both;"></div>
