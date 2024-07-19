@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyi Wang  (王馨仪)"
+title                    : "Xinyi Wang"
 description              : "PhD student@UoB. Working on computer vision, and video/image quality assessment. "
 repository               : "xinyiW915/xinyiW915.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyi Wang"
+  name             : "Xinyi Wang (王馨仪)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Bristol"
   location         : "Bristol, UK"
