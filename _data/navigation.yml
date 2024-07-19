@@ -10,10 +10,10 @@ main:
     url: "/#pub"
 
   - title: "Educations"
-    url: "/#education_experience"
+    url: "/#edu"
 
   - title: "Experiences"
-    url: "/#experiences"
+    url: "/#exp"
 
   - title: "Honors and Awards"
     url: "/#honers"
