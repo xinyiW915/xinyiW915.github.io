@@ -33,7 +33,7 @@ jobs:
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         
         git add *.json
         git commit -m "Updated Citation Data"
@@ -41,4 +41,4 @@ jobs:
         # Enable verbose output for debugging
         git push "${remote_repo}" HEAD:google-scholar-stats --force --verbose
       env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GO​⬤
