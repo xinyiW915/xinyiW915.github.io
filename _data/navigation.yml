@@ -4,17 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
     url: "/#pub"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#edu"
 
   - title: "Experiences"
     url: "/#exp"
 
   - title: "Honors and Awards"
-    url: "/#honers"
-
+    url: "/#honors"
