@@ -5,4 +5,4 @@
   
 - *May. 2023*: The paper “[UGC quality assessment: exploring the impact of saliency in deep feature-based quality assessment](https://arxiv.org/pdf/2308.06853)” was accepted by Applications of Digital Image Processing XLVI, SPIE Optical Engineering + Applications 2023.
   
-- *Oct. 2022*: 💪 I join the Visual Information (VI) Laboratory, University of Bristol as a PhD student!
+- *Oct. 2022*: 💪 I join the Visual Information (VI) Laboratory, University of Bristol as a [PhD student](https://research-information.bris.ac.uk/en/persons/xinyi-wang)!
