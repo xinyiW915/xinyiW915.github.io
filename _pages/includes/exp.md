@@ -4,8 +4,6 @@
     - [COMSM0160](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0160) Advanced Visual AI
     - [COMSM0127](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127) Immersive Interaction and Audio Design
     - [COMS30087](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMS30087) Image Processing and Computer Vision
-    
-- *Sep. 2024 - Present*&emsp;&emsp;&emsp; Demonstrator/GT2, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
     - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0066) Visual Analytics
       
