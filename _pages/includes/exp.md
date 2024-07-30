@@ -1,12 +1,12 @@
 # Experiences
-- *Sep. 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 1/2, University of Bristol, Bristol, UK
+- *Sep. 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 2, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Computer Science:
-    - [COMSM0127](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127) Immersive Interaction and Audio Design
     - [COMSM0160](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0160) Advanced Visual AI
+    - [COMSM0127](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127) Immersive Interaction and Audio Design
+    - [COMS30087](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMS30087) Image Processing and Computer Vision
     
 - *Sep. 2024 - Present*&emsp;&emsp;&emsp; Demonstrator/GT2, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
-    - [EMATM0048](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0048) Software Development: Programming and Algorithms
     - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0066) Visual Analytics
       
 - *Sep. 2023 - Aug. 2024*&emsp;&emsp; Graduate Teacher Level 1, University of Bristol, Bristol, UK
