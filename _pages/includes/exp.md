@@ -7,8 +7,8 @@
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
     - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0066) Visual Analytics
   - Teaching Assistant for units in the School of Electric, Electronic and Mechanical Engineering:
-    - [EEME30002](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EEME30002) Applied ML for Eng Systems
-    - [EEMEM0016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EEME30002) Engineering Project Skills
+    - [EEME30002](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EEME30002) Applied ML for Engineering Systems
+    - [EEMEM0016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EEMEM0016) Engineering Project Skills
       
 - *Sep. 2023 - Aug. 2024*&emsp;&emsp; Graduate Teacher Level 1, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
