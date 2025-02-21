@@ -1,3 +1,3 @@
-# Conference and Journal Service
-- IEEE Transactions on Image Processing (TIP) &emsp;&emsp;Reviewer  
-- IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) &emsp;&emsp;Reviewer
+# Conference and Journal Service Reviewer
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
