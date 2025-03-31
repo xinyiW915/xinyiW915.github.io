@@ -1,5 +1,5 @@
 # 🔥 News
-- *Feb 2025*: The paper “[Foundations of Measuring Power and Energy Consumption in Video Communication]()” was accepted by IEEE Access. I contributed as a co-author.
+- *Feb 2025*: The paper “[Foundations of Measuring Power and Energy Consumption in Video Communication](https://ieeexplore.ieee.org/document/10904224)” was accepted by IEEE Access. I contributed as a co-author.
   
 - *Jun 2024*: The paper “[Rate-Quality or Energy-Quality Pareto Fronts for Adaptive Video Streaming?](https://arxiv.org/pdf/2402.07057)” was accepted by IEEE International Conference on Image Processing (ICIP 2024). I contributed as a co-author.
   
