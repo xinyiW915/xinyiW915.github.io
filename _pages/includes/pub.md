@@ -21,6 +21,13 @@
 </div>
 
 ### Sustainable Video Communications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/measuring_power.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Foundations of Measuring Power and Energy Consumption in Video Communication](https://ieeexplore.ieee.org/document/10904224), Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Daniel Schien. [**Code**](https://github.com/CEatBTU/OPEMS)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/Overview_EQABR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
