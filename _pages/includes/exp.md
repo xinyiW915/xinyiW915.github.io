@@ -11,8 +11,7 @@
       
 - *Sep 2023 - Aug 2024*&emsp;&emsp; Graduate Teacher Level 1, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
-    - [EMAT10100](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT10100) Engineering Mathematics 1
-    - [EMAT20200](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT20200) Engineering Mathematics 2
+    - [EMAT10100](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT10100) Engineering Mathematics 1 & [EMAT20200](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMAT20200) Engineering Mathematics 2
     - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=EMATM0066) Visual Analytics
     - [COMSM0088](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=COMSM0088) Advanced Data Analytics
 
