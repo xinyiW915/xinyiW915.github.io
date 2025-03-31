@@ -1,5 +1,5 @@
 # Experiences
-- *Sep 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 2/Level 1, University of Bristol, Bristol, UK
+- *Sep 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 2, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Computer Science:
     - [COMSM0160](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0160) Advanced Visual AI
     - [COMSM0127](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127) Immersive Interaction and Audio Design
