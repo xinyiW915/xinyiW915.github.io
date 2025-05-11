@@ -6,8 +6,6 @@
     - [COMS30087](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMS30087) Image Processing and Computer Vision
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
     - [EMATM0066](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EMATM0066) Visual Analytics
-  - Teaching Assistant for units in the School of Electric, Electronic and Mechanical Engineering:
-    - [EEME30002](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=EEME30002) Applied ML for Engineering Systems
       
 - *Sep 2023 - Aug 2024*&emsp;&emsp; Graduate Teacher Level 1, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Engineering Mathematics and Technology:
