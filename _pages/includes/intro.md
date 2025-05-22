@@ -4,6 +4,6 @@
 <div style="clear: both;"></div>
 <br> <!-- 添加一个空行 -->
 
-I am a third-year PhD student in the [Visual Information (VI) Laboratory](https://vilab.blogs.bristol.ac.uk/) at the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Dr. Angeliki Katsenou](https://angkats.github.io/), and [Prof. David Bull](https://david-bull.github.io/), and funded by the [UKRI MyWorld Strength in Places Programme](https://www.myworld-creates.com/).
+I am a third-year PhD student in the [Visual Information (VI) Laboratory](https://vilab.blogs.bristol.ac.uk/) at the [University of Bristol](https://www.bristol.ac.uk/), supervised by [Dr. Angeliki Katsenou](https://angkats.github.io/) and [Prof. David Bull](https://david-bull.github.io/), and funded by the [UKRI MyWorld Strength in Places Programme](https://www.myworld-creates.com/).
 
 My main research interests include video quality assessment and computer vision. I am particularly interested in topics such as content delivery, interactivity, and audience understanding, with a primary focus on video quality assessment for user-generated content (UGC).
