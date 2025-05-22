@@ -10,7 +10,7 @@
 
 [ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment](https://arxiv.org/abs/2407.11496), **Xinyi Wang**, Angeliki Katsenou, David Bull. [**Code**](https://github.com/xinyiW915/ReLaX-VQA) [**🤗Hugging Face**](https://huggingface.co/papers/2407.11496)
 
-The paper “Frame Differences Matter in Quality Assessment of Compressed Videos” was accepted by the 25th International Conference on Digital Signal Processing (DSP 2025). 
+Paper “Frame Differences Matter in Quality Assessment of Compressed Videos” was accepted by the 25th International Conference on Digital Signal Processing. 
 </div>
 </div>
 
