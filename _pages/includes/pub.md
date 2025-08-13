@@ -16,7 +16,7 @@ a.noul:hover {
   
 **DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality**
 
-**Xinyi Wang**, Angeliki Katsenou, David Bull.
+**Xinyi Wang**, Angeliki Katsenou, David Bull
 
 [**<a class="noul" href="https://arxiv.org/abs/">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>**]
 </div>
