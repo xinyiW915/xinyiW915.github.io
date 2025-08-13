@@ -32,7 +32,7 @@ a.noul:hover {
 
 Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Frame Differences Matter in Quality Assessment of Compressed Videos</a>” accepted by IEEE 25th International Conference on Digital Signal Processing. 
 
-[**<a class="noul" href="https://arxiv.org/abs/2407.11496">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/ReLaX-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/papers/2407.11496">🤗Hugging Face</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2407.11496">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/ReLaX-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/ReLaX-VQA">🤗Hugging Face</a>**]
 </div>
 </div>
 
