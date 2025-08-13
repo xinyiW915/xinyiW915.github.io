@@ -1,3 +1,13 @@
+<style>
+a.noul {
+  color: #024c9a;
+  text-decoration: none;
+}
+a.noul:hover {
+  color: #0366d6; 
+}
+</style>
+
 # 📎 Homepages
 - Personal Pages: <a class="noul" href="https://xinyiW915.github.io">https://xinyiW915.github.io</a>
 - Linkedin: <a class="noul" href="https://www.linkedin.com/in/xinyi-wang915/">https://www.linkedin.com/in/xinyi-wang915/</a>
