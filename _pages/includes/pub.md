@@ -1,3 +1,13 @@
+<style>
+a.noul {
+  color: #024c9a;
+  text-decoration: none;
+}
+a.noul:hover {
+  color: #0366d6; 
+}
+</style>
+
 # Publications 
 
 ### Video Quality Assessment
@@ -8,7 +18,7 @@
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull.
 
-[**[Paper]**](https://arxiv.org/abs/) [**[Code]**](https://github.com/xinyiW915/DIVA-VQA) [**[🤗Hugging Face]**](https://huggingface.co/spaces/xinyiW915/DIVA-VQA)
+[**[<a class="noul" href="https://arxiv.org/abs/">Paper</a>]**] [**[<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">Code</a>]**] [**[<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>]**]
 </div>
 </div>
 
@@ -20,9 +30,9 @@
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull
 
-Paper [“Frame Differences Matter in Quality Assessment of Compressed Videos”](https://ieeexplore.ieee.org/document/11075040) accepted by IEEE 25th International Conference on Digital Signal Processing. 
+Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Frame Differences Matter in Quality Assessment of Compressed Videos</a>” accepted by IEEE 25th International Conference on Digital Signal Processing. 
 
-[**[Paper]**](https://arxiv.org/abs/2407.11496) [**[Code]**](https://github.com/xinyiW915/ReLaX-VQA) [**[🤗Hugging Face]**](https://huggingface.co/papers/2407.11496)
+[**[<a class="noul" href="https://arxiv.org/abs/2407.11496">Paper</a>]**] [**[<a class="noul" href="https://github.com/xinyiW915/ReLaX-VQA">Code</a>]**] [**[<a class="noul" href="https://huggingface.co/papers/2407.11496">🤗Hugging Face</a>]**]
 </div>
 </div>
 
@@ -34,7 +44,7 @@ Paper [“Frame Differences Matter in Quality Assessment of Compressed Videos”
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull
 
-[**[Paper]**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/1267418/UGC-quality-assessment--exploring-the-impact-of-saliency-in/10.1117/12.2676136.short#_=_) [**[Code]**](https://github.com/xinyiW915/SPIE-2023-Supplementary)
+[**[<a class="noul" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/1267418/UGC-quality-assessment--exploring-the-impact-of-saliency-in/10.1117/12.2676136.short#_=_">Paper</a>]**] [**[<a class="noul" href="https://github.com/xinyiW915/SPIE-2023-Supplementary">Code</a>]**]
 </div>
 </div>
 
@@ -46,7 +56,7 @@ Paper [“Frame Differences Matter in Quality Assessment of Compressed Videos”
 
 Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Daniel Schien
 
-[**[Paper]**](https://ieeexplore.ieee.org/document/10904224) [**Code**](https://github.com/CEatBTU/OPEMS)
+[**[<a class="noul" href="https://ieeexplore.ieee.org/document/10904224">Paper</a>]**] [**[<a class="noul" href="https://github.com/CEatBTU/OPEMS">Code</a>]**]
 </div>
 </div>
 
@@ -55,8 +65,8 @@ Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Danie
 
 **Rate-Quality or Energy-Quality Pareto Fronts for Adaptive Video Streaming?**
 
-Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
-[**[Paper]**](https://ieeexplore.ieee.org/document/10648088) [**Code**](https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024)
+Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull  
+[**[<a class="noul" href="https://ieeexplore.ieee.org/document/10648088">Paper</a>]**] [**[<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024">Code</a>]**]
 </div>
 </div>
 
@@ -68,7 +78,7 @@ Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
 Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
-[**[Paper]**](https://ieeexplore.ieee.org/document/10566286) [**Code**](https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024)
+[**[<a class="noul" href="https://ieeexplore.ieee.org/document/10566286">Paper</a>]**] [**[<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024">Code</a>]**]
 </div>
 </div>
 
@@ -80,6 +90,6 @@ Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
 Angeliki Katsenou, **Xinyi Wang**, David Bull, Daniel Schien
 
-[**[Paper]**](https://research-information.bris.ac.uk/ws/portalfiles/portal/369604144/QoMEX2023_Sustainability_Workshop_1_.pdf)
+[**[<a class="noul" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/369604144/QoMEX2023_Sustainability_Workshop_1_.pdf">Paper</a>]**]
 </div>
 </div>
