@@ -4,11 +4,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/DIVA-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality
+**DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality**
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull.
 
-[**Paper**](https://arxiv.org/abs/) [**Code**](https://github.com/xinyiW915/DIVA-VQA) [**🤗Hugging Face**](https://huggingface.co/spaces/xinyiW915/DIVA-VQA)
+[**[Paper]**](https://arxiv.org/abs/) [**[Code]**](https://github.com/xinyiW915/DIVA-VQA) [**[🤗Hugging Face]**](https://huggingface.co/spaces/xinyiW915/DIVA-VQA)
 </div>
 </div>
 
