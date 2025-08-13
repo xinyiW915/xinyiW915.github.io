@@ -5,7 +5,9 @@
 <div class='paper-box-text' markdown="1">
   
 DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality
+
 **Xinyi Wang**, Angeliki Katsenou, David Bull.
+
 [**Paper**](https://arxiv.org/abs/) [**Code**](https://github.com/xinyiW915/DIVA-VQA) [**🤗Hugging Face**](https://huggingface.co/spaces/xinyiW915/DIVA-VQA)
 </div>
 </div>
