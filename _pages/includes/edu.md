@@ -1,3 +1,13 @@
+<style>
+a.noul {
+  color: #024c9a;
+  text-decoration: none;
+}
+a.noul:hover {
+  color: #0366d6; 
+}
+</style>
+
 # Educations
 - *Oct 2022 - Present*&emsp;&emsp;&emsp;PhD in Electrical and Electronic Engineering, University of Bristol, Bristol, UK.
 - *Sep 2020 - Nov 2021*&emsp;&emsp;MSc (Distinction) in Image and Video Communications and Signal Processing, University of Bristol, Bristol, UK.
