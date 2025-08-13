@@ -1,3 +1,13 @@
+<style>
+a.noul {
+  color: #024c9a;
+  text-decoration: none;
+}
+a.noul:hover {
+  color: #0366d6; 
+}
+</style>
+
 # Selected Research Papers
 
 My full paper list is on <a class="noul" href="https://xinyiW915.github.io">my homepage</a>.
