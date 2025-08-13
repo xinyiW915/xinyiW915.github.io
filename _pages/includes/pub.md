@@ -1,12 +1,16 @@
 # Publications 
 
 ### Video Quality Assessment
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/DIVA-VQA.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality](https://arxiv.org/abs/), **Xinyi Wang**, Angeliki Katsenou, David Bull. [**Code**](https://github.com/xinyiW915/DIVA-VQA) [**🤗Hugging Face**](https://huggingface.co/spaces/xinyiW915/DIVA-VQA)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSP 2025</div><img src='images/ReLaX-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-live-vqc)](https://paperswithcode.com/sota/video-quality-assessment-on-live-vqc?p=relax-vqa-residual-fragment-and-layer-stack)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-youtube-ugc)](https://paperswithcode.com/sota/video-quality-assessment-on-youtube-ugc?p=relax-vqa-residual-fragment-and-layer-stack)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-konvid-1k)](https://paperswithcode.com/sota/video-quality-assessment-on-konvid-1k?p=relax-vqa-residual-fragment-and-layer-stack)
 
 [ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment](https://arxiv.org/abs/2407.11496), **Xinyi Wang**, Angeliki Katsenou, David Bull. [**Code**](https://github.com/xinyiW915/ReLaX-VQA) [**🤗Hugging Face**](https://huggingface.co/papers/2407.11496)
 
