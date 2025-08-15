@@ -11,7 +11,7 @@ a.noul:hover {
 # Publications 
 
 ### Video/Image Quality Assessment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Debanding.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Debanding.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Guiding WaveMamba with Frequency Maps for Image Debanding**
