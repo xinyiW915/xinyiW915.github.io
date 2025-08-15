@@ -9,7 +9,7 @@ a.noul:hover {
 </style>
 
 # 🔥 News
-- *May 2025*: The paper “<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>” was accepted by IEEE International Conference on Image Processing (ICIP 2025).
+- *May 2025*: The paper “<a class="noul" href="https://arxiv.org/abs/2508.10605">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>” was accepted by IEEE International Conference on Image Processing (ICIP 2025).
   
 - *Apr 2025*: The paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Frame Differences Matter in Quality Assessment of Compressed Videos</a>” was accepted by IEEE 25th International Conference on Digital Signal Processing (DSP 2025).
 
