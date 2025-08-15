@@ -18,7 +18,7 @@ a.noul:hover {
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull
 
-[**<a class="noul" href="https://arxiv.org/abs/">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2508.10605">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>**]
 </div>
 </div>
 
