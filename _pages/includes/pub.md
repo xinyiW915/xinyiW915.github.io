@@ -18,7 +18,7 @@ a.noul:hover {
 
 **Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou
 
-[**<a class="noul" href="https://arxiv.org/abs/">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">Code</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2508.10605">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">CODE</a>**]
 </div>
 </div>
 
@@ -29,7 +29,7 @@ a.noul:hover {
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull
 
-[**<a class="noul" href="https://arxiv.org/abs/2508.10605">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2508.10605">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2508.10605">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA">CODE</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA">🤗Hugging Face</a>**]
 </div>
 </div>
 
@@ -43,7 +43,7 @@ a.noul:hover {
 
 Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Frame Differences Matter in Quality Assessment of Compressed Videos</a>” accepted by IEEE 25th International Conference on Digital Signal Processing. 
 
-[**<a class="noul" href="https://arxiv.org/abs/2407.11496">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/ReLaX-VQA">Code</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/ReLaX-VQA">🤗Hugging Face</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2407.11496">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2407.11496">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/ReLaX-VQA">CODE</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/ReLaX-VQA">🤗Hugging Face</a>**]
 </div>
 </div>
 
@@ -55,7 +55,7 @@ Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Fr
 
 **Xinyi Wang**, Angeliki Katsenou, David Bull
 
-[**<a class="noul" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/1267418/UGC-quality-assessment--exploring-the-impact-of-saliency-in/10.1117/12.2676136.short#_=_">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/SPIE-2023-Supplementary">Code</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2308.06853">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2308.06853">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/SPIE-2023-Supplementary">CODE</a>**]
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Fr
 
 Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Daniel Schien
 
-[**<a class="noul" href="https://ieeexplore.ieee.org/document/10904224">Paper</a>**] [**<a class="noul" href="https://github.com/CEatBTU/OPEMS">Code</a>**]
+[**<a class="noul" href="https://research-information.bris.ac.uk/en/publications/foundations-of-measuring-power-and-energy-consumption-in-video-co">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10904224">Paper</a>**] [**<a class="noul" href="https://github.com/CEatBTU/OPEMS">CODE</a>**]
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Danie
 **Rate-Quality or Energy-Quality Pareto Fronts for Adaptive Video Streaming?**
 
 Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull  
-[**<a class="noul" href="https://ieeexplore.ieee.org/document/10648088">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024">Code</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2402.07057">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10648088">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024">CODE</a>**]
 </div>
 </div>
 
@@ -89,7 +89,7 @@ Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
 Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
-[**<a class="noul" href="https://ieeexplore.ieee.org/document/10566286">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024">Code</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2312.12150v1">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10566286">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024">CODE</a>**]
 </div>
 </div>
 
@@ -101,6 +101,6 @@ Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
 Angeliki Katsenou, **Xinyi Wang**, David Bull, Daniel Schien
 
-[**<a class="noul" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/369604144/QoMEX2023_Sustainability_Workshop_1_.pdf">Paper</a>**]
+[**<a class="noul" href="https://research-information.bris.ac.uk/en/publications/video-quality-sufficiency-for-sustainable-video-streaming">ARXIV</a>**] [**<a class="noul" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/369604144/QoMEX2023_Sustainability_Workshop_1_.pdf">Paper</a>**]
 </div>
 </div>
