@@ -10,7 +10,7 @@ a.noul:hover {
 
 # Publications 
 
-### Video Quality Assessment
+### Image/Video Quality Assessment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/DIVA-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
