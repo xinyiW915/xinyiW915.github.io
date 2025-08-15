@@ -11,6 +11,17 @@ a.noul:hover {
 # Publications 
 
 ### Video/Image Quality Assessment
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Debanding.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Guiding WaveMamba with Frequency Maps for Image Debanding**
+
+**Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou
+
+[**<a class="noul" href="https://arxiv.org/abs/">Paper</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">Code</a>**]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/DIVA-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
