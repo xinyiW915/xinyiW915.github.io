@@ -18,7 +18,7 @@ a.noul:hover {
 
 **Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou
 
-[**<a class="noul" href="https://arxiv.org/abs/">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">CODE</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2508.11331">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2508.11331">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">CODE</a>**]
 </div>
 </div>
 
