@@ -48,7 +48,7 @@ Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Fr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applications of Digital Image Processing XLVI</div><img src='images/Saliency.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIE Optics + Photonics 2023</div><img src='images/Saliency.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **UGC quality assessment: exploring the impact of saliency in deep feature-based quality assessment**
