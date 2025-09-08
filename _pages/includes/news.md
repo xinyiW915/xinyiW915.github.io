@@ -9,6 +9,8 @@ a.noul:hover {
 </style>
 
 # 🔥 News
+- *Sep 2025*: The paper “<a class="noul" href="https://arxiv.org/abs/2508.11331">Guiding WaveMamba with Frequency Maps for Image Debanding</a>” was accepted by Picture Coding Symposium (PCS 2025).
+  
 - *May 2025*: The paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11084568">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>” was accepted by IEEE International Conference on Image Processing (ICIP 2025).
   
 - *Apr 2025*: The paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Frame Differences Matter in Quality Assessment of Compressed Videos</a>” was accepted by IEEE 25th International Conference on Digital Signal Processing (DSP 2025).
