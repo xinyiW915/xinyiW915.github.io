@@ -20,6 +20,7 @@ a.noul:hover {
 
 [**<a class="noul" href="https://arxiv.org/abs/2511.07290">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2511.07290">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA">CODE</a>**] [**<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA">🤗Hugging Face</a>**]
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCS 2025</div><img src='images/Debanding.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
