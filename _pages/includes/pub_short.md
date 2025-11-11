@@ -13,7 +13,8 @@ a.noul:hover {
 My full paper list is on <a class="noul" href="https://xinyiW915.github.io">my homepage</a>.
 
 ## Video Quality Assessment
-- ``WACV 2026`` <a class="noul" href="https://arxiv.org/abs/2511.07290">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA"><b>🤗Hugging Face</b></a>]
+- ``WACV 2026`` <a class="noul" href="https://arxiv.org/abs/2511.07290">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video
+</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA"><b>🤗Hugging Face</b></a>]
 
 - ``PCS 2025`` <a class="noul" href="https://arxiv.org/abs/2508.11331">Guiding WaveMamba with Frequency Maps for Image Debanding</a>, **Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou. [<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025"><b>Code</b></a>]
 
