@@ -9,6 +9,8 @@ a.noul:hover {
 </style>
 
 # 🔥 News
+- *Nov 2025*: The paper “<a class="noul" href="https://arxiv.org/abs/2511.07290">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video</a>” was accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026).
+  
 - *Sep 2025*: The paper “<a class="noul" href="https://arxiv.org/abs/2508.11331">Guiding WaveMamba with Frequency Maps for Image Debanding</a>” was accepted by Picture Coding Symposium (PCS 2025).
   
 - *May 2025*: The paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11084568">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>” was accepted by IEEE International Conference on Image Processing (ICIP 2025).
