@@ -13,10 +13,11 @@ a.noul:hover {
 My full paper list is on <a class="noul" href="https://xinyiW915.github.io">my homepage</a>.
 
 ## Video Quality Assessment
-- ``WACV 2026`` <a class="noul" href="https://arxiv.org/abs/2511.07290">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video
-</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA"><b>🤗Hugging Face</b></a>]
+- ``QoMEX 2026`` <a class="noul" href="https://arxiv.org/abs/">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/FGSVQA"><b>Code</b></a>]
 
-- ``PCS 2025`` <a class="noul" href="https://arxiv.org/abs/2508.11331">Guiding WaveMamba with Frequency Maps for Image Debanding</a>, **Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou. [<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025"><b>Code</b></a>]
+- ``WACV 2026`` <a class="noul" href="https://openaccess.thecvf.com/content/WACV2026/html/Wang_CAMP-VQA_Caption-Embedded_Multimodal_Perception_for_No-Reference_Quality_Assessment_of_Compressed_WACV_2026_paper.html">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA"><b>🤗Hugging Face</b></a>]
+
+- ``PCS 2025`` <a class="noul" href="https://ieeexplore.ieee.org/document/11417590">Guiding WaveMamba with Frequency Maps for Image Debanding</a>, **Xinyi Wang**, Smaranda Tasmoc, Nantheera Anantrasirichai, Angeliki Katsenou. [<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025"><b>Code</b></a>]
 
 - ``ICIP 2025`` <a class="noul" href="https://ieeexplore.ieee.org/document/11084568">DIVA-VQA: Detecting Inter-frame Variations in UGC Video Quality</a>, **Xinyi Wang**, Angeliki Katsenou, David Bull. [<a class="noul" href="https://github.com/xinyiW915/DIVA-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/DIVA-VQA"><b>🤗Hugging Face</b></a>]
 
