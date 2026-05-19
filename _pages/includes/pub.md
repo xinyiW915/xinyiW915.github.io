@@ -11,6 +11,18 @@ a.noul:hover {
 # Publications 
 
 ### Video/Image Quality Assessment
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">QoMEX 2026</div><img src='images/FGSVQA.png' alt="sym" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**FGSVQA: Frequency-Guided Short-form Video Quality Assessment**
+
+**Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull
+
+[**<a class="noul" href="https://arxiv.org/abs/">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/FGSVQA">CODE</a>**]
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2026</div><img src='images/CAMP-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -22,6 +34,7 @@ a.noul:hover {
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCS 2025</div><img src='images/Debanding.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -32,6 +45,7 @@ a.noul:hover {
 [**<a class="noul" href="https://arxiv.org/abs/2508.11331">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2508.11331">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/Debanding-PCS2025">CODE</a>**]
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/DIVA-VQA.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +84,7 @@ Paper “<a class="noul" href="https://ieeexplore.ieee.org/document/11075040">Fr
 </div>
 </div>
 
+
 ### Sustainable Video Communications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/measuring_power.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,6 +96,7 @@ Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Danie
 [**<a class="noul" href="https://research-information.bris.ac.uk/en/publications/foundations-of-measuring-power-and-energy-consumption-in-video-co">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10904224">PAPER</a>**] [**<a class="noul" href="https://github.com/CEatBTU/OPEMS">CODE</a>**]
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/Overview_EQABR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
