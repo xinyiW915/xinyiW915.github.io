@@ -104,7 +104,7 @@ Christian Herglotz, Angeliki Katsenou, **Xinyi Wang**, Matthias Kränzler, Danie
 **Rate-Quality or Energy-Quality Pareto Fronts for Adaptive Video Streaming?**
 
 Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull  
-[**<a class="noul" href="https://arxiv.org/abs/2402.07057">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10648088">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024">CODE</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2402.07057">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2402.07057">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/ICIP-2024">CODE</a>**]
 </div>
 </div>
 
@@ -116,7 +116,7 @@ Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
 Angeliki Katsenou, **Xinyi Wang**, Daniel Schien, David Bull
 
-[**<a class="noul" href="https://arxiv.org/abs/2312.12150v1">ARXIV</a>**] [**<a class="noul" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10566286">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024">CODE</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2312.12150v1">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2312.12150v1">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/quality-energy/tree/main/PCS-2024">CODE</a>**]
 </div>
 </div>
 
