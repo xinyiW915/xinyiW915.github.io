@@ -9,7 +9,7 @@ a.noul:hover {
 </style>
 
 # 🔥 News
-- *May 2026*: The paper “<a class="noul" href="https://arxiv.org/">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>” was accepted by the 18th International Conference on Quality of Multimedia Experience (QoMEX 2026).
+- *May 2026*: The paper “<a class="noul" href="https://arxiv.org/abs/2605.20016">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>” was accepted by the 18th International Conference on Quality of Multimedia Experience (QoMEX 2026).
 
 - *Nov 2025*: The paper “<a class="noul" href="https://openaccess.thecvf.com/content/WACV2026/html/Wang_CAMP-VQA_Caption-Embedded_Multimodal_Perception_for_No-Reference_Quality_Assessment_of_Compressed_WACV_2026_paper.html">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video</a>” was accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026).
   
