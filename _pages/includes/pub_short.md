@@ -13,7 +13,7 @@ a.noul:hover {
 My full paper list is on <a class="noul" href="https://xinyiW915.github.io">my homepage</a>.
 
 ## Video Quality Assessment
-- ``QoMEX 2026`` <a class="noul" href="https://arxiv.org/abs/">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/FGSVQA"><b>Code</b></a>]
+- ``QoMEX 2026`` <a class="noul" href="https://arxiv.org/abs/2605.20016">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/FGSVQA"><b>Code</b></a>]
 
 - ``WACV 2026`` <a class="noul" href="https://openaccess.thecvf.com/content/WACV2026/html/Wang_CAMP-VQA_Caption-Embedded_Multimodal_Perception_for_No-Reference_Quality_Assessment_of_Compressed_WACV_2026_paper.html">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video</a>, **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull. [<a class="noul" href="https://github.com/xinyiW915/CAMP-VQA"><b>Code</b></a>] [<a class="noul" href="https://huggingface.co/spaces/xinyiW915/CAMP-VQA"><b>🤗Hugging Face</b></a>]
 
