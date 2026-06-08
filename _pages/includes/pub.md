@@ -18,7 +18,7 @@ a.noul:hover {
 
 **Xinyi Wang**, Angeliki Katsenou, Junxiao Shen, David Bull
 
-[**<a class="noul" href="https://arxiv.org/abs/2605.20016">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2605.20016">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/FGSVQA">CODE</a>**]
+[**<a class="noul" href="https://arxiv.org/abs/2605.20016">ARXIV</a>**] [**<a class="noul" href="https://arxiv.org/pdf/2605.20016">PAPER</a>**] [**<a class="noul" href="https://github.com/xinyiW915/FGSVQA">CODE</a>**] [**<a class="noul" href="https://huggingface.co/xinyiW915/FGSVQA">🤗Hugging Face</a>**]
 </div>
 </div>
 
