@@ -9,7 +9,10 @@ a.noul:hover {
 </style>
 
 # Experiences
-- *Sep 2024 - Present*&emsp;&emsp;&emsp; Graduate Teacher Level 2, University of Bristol, Bristol, UK
+- *Sep 2026 - Present*&emsp;&emsp; Postdoctoral Research Associate, University of Cambridge, Cambridge, UK
+  - Research Associate in Quality Metrics for HDR Game Streaming
+
+- *Sep 2024 - Aug 2026*&emsp;&emsp;&emsp; Graduate Teacher Level 2, University of Bristol, Bristol, UK
   - Teaching Assistant for units in the School of Computer Science:
     - <a class="noul" href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0160">COMSM0160</a> Advanced Visual AI
     - <a class="noul" href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=COMSM0127">COMSM0127</a> Immersive Interaction and Audio Design
