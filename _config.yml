@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyi Wang"
-description              : "PostDoc @ Cambridge, PhD @ Bristol. 
+description              : "PostDoc @Cambridge, PhD @Bristol. 
 Working on video quality assessment. "
 repository               : "xinyiW915/xinyiW915.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Wang <br><span style='font-size: small;'>王馨仪</span>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Bristol"
-  location         : "1.25, 1CS, Bristol, UK"
+  bio              : "University of Cambridge"
+  location         : "SS26, William Gates Building, Cambridge, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Z-yFuY4AAAAJ"
