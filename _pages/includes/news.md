@@ -9,7 +9,7 @@ a.noul:hover {
 </style>
 
 # 🔥 News
-- *Sep 2026*: 💪 I joined the Graphics & Interaction Group at the University of Cambridge as a <a class="noul" href="https://www.cst.cam.ac.uk/people/xw506">Postdoctoral Research Associate</a>!
+- *Sep 2026*: 💪 I joined the Graphics & Interaction Group, University of Cambridge as a <a class="noul" href="https://www.cst.cam.ac.uk/people/xw506">Postdoctoral Research Associate</a>!
 
 - *May 2026*: The paper “<a class="noul" href="https://arxiv.org/abs/2605.20016">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>” was accepted by the 18th International Conference on Quality of Multimedia Experience (QoMEX 2026).
 
