@@ -9,6 +9,8 @@ a.noul:hover {
 </style>
 
 # 🔥 News
+- *Sep 2026*: 💪 I joined the Graphics & Interaction Group at the University of Cambridge as a <a class="noul" href="https://www.cst.cam.ac.uk/people/xw506">Postdoctoral Research Associate</a>!
+
 - *May 2026*: The paper “<a class="noul" href="https://arxiv.org/abs/2605.20016">FGSVQA: Frequency-Guided Short-form Video Quality Assessment</a>” was accepted by the 18th International Conference on Quality of Multimedia Experience (QoMEX 2026).
 
 - *Nov 2025*: The paper “<a class="noul" href="https://openaccess.thecvf.com/content/WACV2026/html/Wang_CAMP-VQA_Caption-Embedded_Multimodal_Perception_for_No-Reference_Quality_Assessment_of_Compressed_WACV_2026_paper.html">CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video</a>” was accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026).
@@ -27,4 +29,4 @@ a.noul:hover {
   
 - *May 2023*: The paper “<a class="noul" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12674/1267418/UGC-quality-assessment--exploring-the-impact-of-saliency-in/10.1117/12.2676136.short?SSO=1">UGC quality assessment: exploring the impact of saliency in deep feature-based quality assessment</a>” was accepted by Applications of Digital Image Processing XLVI, SPIE Optical Engineering + Applications 2023.
   
-- *Oct 2022*: 💪 I join the Visual Information (VI) Laboratory, University of Bristol as a <a class="noul" href="https://research-information.bris.ac.uk/en/persons/xinyi-wang">PhD student</a>!
+- *Oct 2022*: 💪 I joined the Visual Information (VI) Laboratory, University of Bristol as a <a class="noul" href="https://research-information.bris.ac.uk/en/persons/xinyi-wang">PhD student</a>!
